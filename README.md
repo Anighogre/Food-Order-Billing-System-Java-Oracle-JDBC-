@@ -42,6 +42,6 @@ The system should:
 
 ### 🔹 5. User Menu
 Provide a simple menu-driven interface:
-1. Place an order"
-2. Print the bill;
+1. Place an order
+2. Print the bill
 3. Exit
